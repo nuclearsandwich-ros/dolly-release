@@ -1,1 +1,1 @@
-{"base": "b0fbf3b", "parent": "debian/rolling/dolly_gazebo", "previous": "962d193", "trim": "", "trimbase": ""}
+{"base": "213f549", "parent": "debian/humble/dolly_gazebo", "previous": "39d19aa", "trim": "", "trimbase": ""}
